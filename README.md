@@ -1,2 +1,22 @@
-# calculator_python
-A Python calculator that performs basic arithmetic operations like addition, subtraction, multiplication, division, square 
+
+# 🧮 Python Calculator
+
+A simple calculator built using Python.
+
+## Features
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- ^2 Square
+
+## Language Used
+- Python
+
+## Author
+Kailash Pandey
+
+## Future Improvements
+- GUI Calculator using Tkinter
+- Scientific Calculator
+- Better Error Handling
