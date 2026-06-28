@@ -12,6 +12,7 @@ A simple calculator built using Python.
 
 ## Language Used
 - Python
+- also used pyttsx3 module 
 
 ## Author
 Kailash Pandey
